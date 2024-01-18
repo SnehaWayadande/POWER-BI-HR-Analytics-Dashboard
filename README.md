@@ -52,3 +52,4 @@ SL Count = SUM('Final Data'[SL Count])
 SL % = DIVIDE([SL Count], [Total Working Days],0)
 ~~~
 
+![HR-Analytics Dashboard](https://github.com/SnehaWayadande/POWER-BI-HR-Analytics-Dashboard/assets/121106203/a4ef6c16-138b-44d6-ba6c-7598e653fc04)
